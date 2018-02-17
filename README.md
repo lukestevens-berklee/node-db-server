@@ -3,7 +3,7 @@ A quick way to expose your database to your web application
 
 This code is a node app that creates a server that can connect to a database that you specify, and run queries.  
 
-1. You really want to watch the chat from Thursday, November 30th, 2017. We built this thing during that chat, and I explain why it works, and all the steps.  You can work along with the video if you want, or just use this bit if code as a starting point.
+1. You really want to watch the chat from Thursday, November 30th, 2017. You can see it here: https://berklee.webex.com/berklee/ldr.php?RCID=791d755005ac2ae2d270e776e684f6c8  We built this thing during that chat, and I explain why it works, and all the steps.  You can work along with the video if you want, or just use this bit of code as a starting point.
 
 2. You'll need to install some packages, to connect to the database and serve web requests. These are defined in `package.json`, and you can install them all with `npm install`. New packages can be installed with `npm install --save my_package_name`.
 
